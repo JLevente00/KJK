@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    text-align: justify;
+    background-color: #6f42c1;
+    font-family: 'Cormorant Garamond', serif;
+}
+.row{
+    background-color: #6f42c1;
+}
+.btn-purple {
+    background-color: #6f42c1;
+    border-color: #6f42c1;
+    color:  white;
+  }
+a{
+    text-decoration: none;
+    color: white;
+}
+.btn-purple:hover {
+    background-color: #5a32a3; 
+    border-color: #5a32a3;
+    color: white;  
+  }
+  .col-md-6{
+    background-image: url(./Hátter1.png);
+    color: white;
+    border: solid 2px white;
+  }
+  footer,header{
+    text-align: center;
+    background-color: #6f42c1 ;
+    color: white;
+    padding: 15px;
+    margin: 10px;
+    font-family: 'Goudy Stout', serif;
+  }
+  .Fej{
+    background-image: url(./Háttér\ 3.png);
+  }
+  button{
+    margin: 10px;
+  }
+ footer{
+    border-bottom: solid white 10px ;
+    text-align: right;
+ }
+ a{
+    font-family: 'Rubik Glitch', cursive;
+ }
+  .col-md-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    border-bottom: solid white 2px;
+    border-top: solid white 2px;
+  }
+  img{
+    max-width: 130%;
+    border: solid 2px white;
+  }
